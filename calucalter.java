@@ -1,9 +1,3 @@
-
-    
-
-
- 
-
 // Java program to create a simple calculator 
 
 // with basic +, -, /, * using java swing elements 
