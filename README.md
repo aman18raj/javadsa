@@ -14,3 +14,13 @@ Contributing
 License
 
 Credits
+Features
+Library of essential data structures: Array, Linked List, Stack, Queue, Tree, Graph, Hash Table, and more.
+
+Implementation of standard algorithms: Sorting (Quick, Merge, Heap, etc.), Searching, Graph algorithms (BFS, DFS, Dijkstra), etc.
+
+Clear JavaDocs for every method and class.
+
+Lightweight with no external dependencies.
+
+Example projects and test cases for learning and experimentation.
