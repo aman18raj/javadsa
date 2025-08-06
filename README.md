@@ -1,26 +1,39 @@
 # javadsa
-javadsa is a comprehensive Java library that provides implementation of core data structures and algorithms. It is designed to help students and developers learn, use, and experiment with various data structures and algorithms in Java with clean, tested, and well-documented code.
-Table of Contents
-Features
+Welcome to the Java DSA repository! This project contains a collection of Java implementations for essential data structures and algorithms typically required for coding interviews, academic courses, and hands-on problem solving.
 
-Installation
+📚 Contents
+Data Structures
 
-Usage
+Arrays
 
-Examples
+Linked Lists (Singly, Doubly, Circular)
 
-Contributing
+Stacks & Queues
 
-License
+Trees (Binary Trees, BST)
 
-Credits
-Features
-Library of essential data structures: Array, Linked List, Stack, Queue, Tree, Graph, Hash Table, and more.
+Heaps & Priority Queues
 
-Implementation of standard algorithms: Sorting (Quick, Merge, Heap, etc.), Searching, Graph algorithms (BFS, DFS, Dijkstra), etc.
+Hash Tables (HashMap, HashSet)
 
-Clear JavaDocs for every method and class.
+Graphs (Adjacency List, Adjacency Matrix)
 
-Lightweight with no external dependencies.
+Algorithms
 
-Example projects and test cases for learning and experimentation.
+Sorting (Bubble, Selection, Insertion, Merge, Quick, Heap)
+
+Searching (Linear, Binary)
+
+Recursion & Backtracking
+
+Dynamic Programming
+
+Greedy Algorithms
+
+Graph Algorithms (BFS, DFS, Dijkstra, Kruskal, Prim)
+
+LeetCode & Coding Problems
+
+Solutions to popular problems (Two Sum, Reverse Linked List, etc.)
+
+Tips, patterns, and clean code examples
